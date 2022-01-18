@@ -7,3 +7,5 @@ département concerné.
 
 Puis après avoir choisi sa ville on affiche a l'aide d'un API la météo de la
 ville avec differentes statistiques.
+
+*Ce projet a été réalisé en L2.*
